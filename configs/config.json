@@ -1,0 +1,6 @@
+{
+  "baseURL": "https://test-api.k6.io",
+  "headers": {
+    "Content-Type": "application/json"
+  }
+}
